@@ -15,7 +15,7 @@
 Magic-books Inc. is a fictional company based in Germany. They have requested for a front-end application that will help them organize and manage their bookstore. They want it to be fast, dynamic and responsive to their actions.
 
 ## Live Version
-Live version can be found here: <a href="https://mouhadiouf.github.io/redux-bookstore-1/"> Redux Bookstore </a>
+Live version can be found here: <a href="https://mouhadiouf.github.io/redux-bookstore/"> Redux Bookstore </a>
 ## Developed by
 
 Mouhamadou Diouf ( <a href="https://github.com/MouhaDiouf"> @mouhad </a>)
