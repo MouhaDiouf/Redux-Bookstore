@@ -1,4 +1,5 @@
 # Building a Book store with React & Redux.
+![screenshot](./public/screenshot.png)
 
 ## Technologies
 
